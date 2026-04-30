@@ -140,6 +140,25 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ---
 
+### 6️⃣ Cyber Collector ⚡️
+**[@cybercollectorbot](https://t.me/cybercollectorbot)**
+
+> 🎬 **Free multi-platform video downloader — no watermark, no signup**
+
+**What it does:**
+- 📥 Download TikTok videos without watermark
+- 📸 Save Instagram Reels & Stories
+- 🎥 Grab YouTube videos + Shorts
+- 🐦 Download X/Twitter videos
+- 📘 Save Facebook videos
+- 🆓 Completely free, no ads
+
+```bash
+💡 Perfect for: Content creators, social media enthusiasts, video collectors
+```
+
+---
+
 ## 🌟 Key Features
 
 | Feature | Description |
